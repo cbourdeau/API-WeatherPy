@@ -52,4 +52,4 @@ As final considerations:
 
 ## Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
+Data Boot Camp © 2019. All Rights Reserved.
