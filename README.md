@@ -8,9 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/dehydrate.jpg)
-
-<center><img src="Images/dehydrate.jpg"></center>
+![Equator](Images/equator.jpg)
 
 ## WeatherPy
 
